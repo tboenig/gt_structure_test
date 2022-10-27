@@ -45,6 +45,13 @@
       </thead>
       <tbody>
          <tr>
+            <td>244</td>
+            <td>0</td>
+            <td>0</td>
+            <td>9</td>
+            <td>0</td>
+            <td>0</td>
+            <td>26</td>
             <td>0</td>
             <td>0</td>
             <td>0</td>
@@ -53,14 +60,7 @@
             <td>0</td>
             <td>0</td>
             <td>0</td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
+            <td>28</td>
          </tr>
       </tbody>
    </table>
@@ -89,7 +89,27 @@
                   <th>Page</th>
                </tr>
             </thead>
-            <tbody/>
+            <tbody>
+               <tr>
+                  <td>abel_leibmedicus_1699</td>
+                  <td>244</td>
+                  <td/>
+                  <td/>
+                  <td>9</td>
+                  <td/>
+                  <td/>
+                  <td>26</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>28</td>
+               </tr>
+            </tbody>
          </table>
       </div>
    </div>
