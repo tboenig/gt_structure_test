@@ -50,7 +50,7 @@
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/gt_structure_test/releases/download/v15/bagitDump-v15.zip">Current version download: bagitDump-v15.zip</a>
+         <a href="https://github.com/tboenig/gt_structure_test/releases/download/v16/bagitDump-v16.zip">Current version download: bagitDump-v16.zip</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/gt_structure_test/releases">Version archive</a>
