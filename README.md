@@ -45,22 +45,22 @@
       </thead>
       <tbody>
          <tr>
-            <td>244</td>
+            <td>480</td>
             <td>0</td>
             <td>0</td>
-            <td>9</td>
+            <td>11</td>
             <td>0</td>
             <td>0</td>
-            <td>26</td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
+            <td>68</td>
             <td>0</td>
             <td>0</td>
             <td>0</td>
             <td>0</td>
             <td>0</td>
-            <td>28</td>
+            <td>0</td>
+            <td>0</td>
+            <td>0</td>
+            <td>58</td>
          </tr>
       </tbody>
    </table>
@@ -90,6 +90,25 @@
                </tr>
             </thead>
             <tbody>
+               <tr>
+                  <td>abschatz_gedichte_1704</td>
+                  <td>236</td>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td>42</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>30</td>
+               </tr>
                <tr>
                   <td>abel_leibmedicus_1699</td>
                   <td>244</td>
