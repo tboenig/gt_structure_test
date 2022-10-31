@@ -731,37 +731,6 @@
          <mets:div ID="loc_d1e417" TYPE="Chapter" LABEL=""/>
       </mets:div>
    </mets:structMap>
-   <mets:structLink>
-      <mets:smLink xlink:from="loc_0001" xlink:to="phys_0000"/>
-      <mets:smLink xlink:from="loc_d1e417" xlink:to="phys_0000"/>
-      <mets:smLink xlink:from="loc_d1e417" xlink:to="phys_0001"/>
-      <mets:smLink xlink:from="loc_d1e417" xlink:to="phys_0002"/>
-      <mets:smLink xlink:from="loc_d1e417" xlink:to="phys_0003"/>
-      <mets:smLink xlink:from="loc_d1e417" xlink:to="phys_0004"/>
-      <mets:smLink xlink:from="loc_d1e417" xlink:to="phys_0005"/>
-      <mets:smLink xlink:from="loc_d1e417" xlink:to="phys_0006"/>
-      <mets:smLink xlink:from="loc_d1e417" xlink:to="phys_0007"/>
-      <mets:smLink xlink:from="loc_d1e417" xlink:to="phys_0008"/>
-      <mets:smLink xlink:from="loc_d1e417" xlink:to="phys_0009"/>
-      <mets:smLink xlink:from="loc_d1e417" xlink:to="phys_0010"/>
-      <mets:smLink xlink:from="loc_d1e417" xlink:to="phys_0011"/>
-      <mets:smLink xlink:from="loc_d1e417" xlink:to="phys_0012"/>
-      <mets:smLink xlink:from="loc_d1e417" xlink:to="phys_0013"/>
-      <mets:smLink xlink:from="loc_d1e417" xlink:to="phys_0014"/>
-      <mets:smLink xlink:from="loc_d1e417" xlink:to="phys_0015"/>
-      <mets:smLink xlink:from="loc_d1e417" xlink:to="phys_0016"/>
-      <mets:smLink xlink:from="loc_d1e417" xlink:to="phys_0017"/>
-      <mets:smLink xlink:from="loc_d1e417" xlink:to="phys_0018"/>
-      <mets:smLink xlink:from="loc_d1e417" xlink:to="phys_0019"/>
-      <mets:smLink xlink:from="loc_d1e417" xlink:to="phys_0020"/>
-      <mets:smLink xlink:from="loc_d1e417" xlink:to="phys_0021"/>
-      <mets:smLink xlink:from="loc_d1e417" xlink:to="phys_0022"/>
-      <mets:smLink xlink:from="loc_d1e417" xlink:to="phys_0023"/>
-      <mets:smLink xlink:from="loc_d1e417" xlink:to="phys_0024"/>
-      <mets:smLink xlink:from="loc_d1e417" xlink:to="phys_0025"/>
-      <mets:smLink xlink:from="loc_d1e417" xlink:to="phys_0026"/>
-      <mets:smLink xlink:from="loc_d1e417" xlink:to="phys_0027"/>
-   </mets:structLink>
    <mets:structMap TYPE="PHYSICAL">
       <mets:div TYPE="physSequence" ID="phys_0000" DMDID="DMDGT_0000">
          <mets:div TYPE="page" ORDER="1" ID="phys_0001" DMDID="DMDGT_0001">
@@ -906,4 +875,35 @@
          </mets:div>
       </mets:div>
    </mets:structMap>
+   <mets:structLink>
+      <mets:smLink xlink:from="loc_0001" xlink:to="phys_0000"/>
+      <mets:smLink xlink:from="loc_d1e417" xlink:to="phys_0000"/>
+      <mets:smLink xlink:from="loc_d1e417" xlink:to="phys_0001"/>
+      <mets:smLink xlink:from="loc_d1e417" xlink:to="phys_0002"/>
+      <mets:smLink xlink:from="loc_d1e417" xlink:to="phys_0003"/>
+      <mets:smLink xlink:from="loc_d1e417" xlink:to="phys_0004"/>
+      <mets:smLink xlink:from="loc_d1e417" xlink:to="phys_0005"/>
+      <mets:smLink xlink:from="loc_d1e417" xlink:to="phys_0006"/>
+      <mets:smLink xlink:from="loc_d1e417" xlink:to="phys_0007"/>
+      <mets:smLink xlink:from="loc_d1e417" xlink:to="phys_0008"/>
+      <mets:smLink xlink:from="loc_d1e417" xlink:to="phys_0009"/>
+      <mets:smLink xlink:from="loc_d1e417" xlink:to="phys_0010"/>
+      <mets:smLink xlink:from="loc_d1e417" xlink:to="phys_0011"/>
+      <mets:smLink xlink:from="loc_d1e417" xlink:to="phys_0012"/>
+      <mets:smLink xlink:from="loc_d1e417" xlink:to="phys_0013"/>
+      <mets:smLink xlink:from="loc_d1e417" xlink:to="phys_0014"/>
+      <mets:smLink xlink:from="loc_d1e417" xlink:to="phys_0015"/>
+      <mets:smLink xlink:from="loc_d1e417" xlink:to="phys_0016"/>
+      <mets:smLink xlink:from="loc_d1e417" xlink:to="phys_0017"/>
+      <mets:smLink xlink:from="loc_d1e417" xlink:to="phys_0018"/>
+      <mets:smLink xlink:from="loc_d1e417" xlink:to="phys_0019"/>
+      <mets:smLink xlink:from="loc_d1e417" xlink:to="phys_0020"/>
+      <mets:smLink xlink:from="loc_d1e417" xlink:to="phys_0021"/>
+      <mets:smLink xlink:from="loc_d1e417" xlink:to="phys_0022"/>
+      <mets:smLink xlink:from="loc_d1e417" xlink:to="phys_0023"/>
+      <mets:smLink xlink:from="loc_d1e417" xlink:to="phys_0024"/>
+      <mets:smLink xlink:from="loc_d1e417" xlink:to="phys_0025"/>
+      <mets:smLink xlink:from="loc_d1e417" xlink:to="phys_0026"/>
+      <mets:smLink xlink:from="loc_d1e417" xlink:to="phys_0027"/>
+   </mets:structLink>
 </mets:mets>
