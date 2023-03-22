@@ -195,6 +195,7 @@ jobs:
     - name: Upload Release
       uses: ncipollo/release-action@v1
       with:
+          tag: 'latest'
           artifacts: 'ocrdzip_out/site.zip'
           token: ${{ secrets.GITHUB_TOKEN }}
           
