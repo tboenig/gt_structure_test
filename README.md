@@ -1,6 +1,6 @@
 <div>
    <h1 id="title">gt_structure_test</h1>
-   <p id="paragraph">Test structure Gorund Truth Repo</p>
+   <p id="paragraph">Test structure Gorund Truth Repo with new releases</p>
    <h2>Metadata</h2>
    <dl class="grid">
       <dt id="Language">Language:</dt>
