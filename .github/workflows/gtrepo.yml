@@ -20,15 +20,15 @@ jobs:
     - name: Git checkout
       uses: actions/checkout@v3
 
-    # Installation Styles
+     # Installation Styles
       
-    - name: install anaylse xsl-styles
+    - name: install analyse xsl-styles
       run: | 
         git clone https://github.com/tboenig/gt-repo-scripts.git
         mv gt-repo-scripts/scripts scripts/
         rm -r gt-repo-scripts
 
-    # Installation GT-Labelling Documentation
+     # Installation GT-Labelling Documentation
 
     - name: install labeling
       run: |
@@ -37,10 +37,14 @@ jobs:
      
     # Installation and Directories
       
+    - name: install jq
+      run: sudo apt-get install jq
+    
     - name: install ocrd
       run: |
        git clone --depth 1 https://github.com/OCR-D/core
        cd core
+       sudo make deps-ubuntu
        make install
        cd ..
        rm -rf core
@@ -66,7 +70,7 @@ jobs:
 
           
     
-   # Transformation and analysis
+   # Transformation and analyzing
     
     - name: Get SDK Version from config
       id: lookupSdkVersion
@@ -88,7 +92,7 @@ jobs:
         -s:scripts/gt-overview_metadata.xsl -o:ghout/table.md
       shell: bash
 
-    - name: detailed table view
+    - name: detailed table view 
       run: |
         java -jar saxon-he-10.5.jar -xsl:scripts/gt-overview_metadata.xsl \
         output=OVERVIEW repoBase=$GITHUB_REF_Name repoName=$GITHUB_REPOSITORY \
@@ -101,6 +105,21 @@ jobs:
         output=METS repoBase=$GITHUB_REF_Name repoName=$GITHUB_REPOSITORY \
         -s:scripts/gt-overview_metadata.xsl -o:scripts/mets.sh
       shell: bash
+      
+    - name: generate Metadata JSON file
+      run: |
+        java -jar saxon-he-10.5.jar -xsl:scripts/gt-overview_metadata.xsl \
+        output=METAJSON repoBase=$GITHUB_REF_Name repoName=$GITHUB_REPOSITORY bagitDumpNum=$GITHUB_RUN_NUMBER \
+        -s:scripts/gt-overview_metadata.xsl -o:ocrdzip_out/metadata_l.json
+      shell: bash
+      
+      
+    - name: format json file and copy to gh branch
+      run: |
+        jq '.' ocrdzip_out/metadata_l.json > ocrdzip_out/metadata.json
+        cp ocrdzip_out/metadata.json ghout/
+        rm ocrdzip_out/metadata_l.json
+      
       
     - name: generate README
       run: |
@@ -118,10 +137,10 @@ jobs:
       
     - name: delete fileGrp DEFAULT
       run: |
-        sudo java -jar saxon-he-10.5.jar -xsl:scripts/gt-overview_metadata.xsl \
+        java -jar saxon-he-10.5.jar -xsl:scripts/gt-overview_metadata.xsl \
         output=METSdefault repoBase=$GITHUB_REF_Name repoName=$GITHUB_REPOSITORY bagitDumpNum=$GITHUB_RUN_NUMBER \
         -s:scripts/gt-overview_metadata.xsl
-      shell: bash
+      shell: bash   
   
     - name: Index-link
       run: |
@@ -182,7 +201,7 @@ jobs:
 
 
     - name: Deploy GT-Overview to GitHub Pages 🚀
-      uses: JamesIves/github-pages-deploy-action@v4
+      uses: JamesIves/github-pages-deploy-action@v4.3.3
       with:
           branch: gh-pages # The branch the action should deploy to.
-          folder: ghout  # The folder the action should deploy.           
+          folder: ghout  # The folder the action should deploy.
