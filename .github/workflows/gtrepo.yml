@@ -200,7 +200,7 @@ jobs:
       with:
           artifacts: './bagitDump-v*.zip'
           artifactContentType: application/zip
-          name: Release ${{ github.run_number }}_${{github.ref}}
+          name: Release ${{ github.run_number }}_${{ github.ref }}
           bodyFile: CHANGELOG.md
           token: ${{ secrets.GITHUB_TOKEN }}
           
