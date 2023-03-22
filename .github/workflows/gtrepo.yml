@@ -202,7 +202,7 @@ jobs:
           artifactContentType: application/zip
           name: Release ${{ github.run_number }}_${{ github.ref_name }}
           body: 
-            'Version: ${{ github.ref_name }} \n Info: {{ github.step_summary }}'  
+            'Version: ${{ github.ref_name }} <br/> Info: $GITHUB_STEP_SUMMARY'  
          #bodyFile: CHANGELOG.md
           token: ${{ secrets.GITHUB_TOKEN }}
           
