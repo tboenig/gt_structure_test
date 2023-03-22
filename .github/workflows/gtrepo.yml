@@ -201,7 +201,9 @@ jobs:
           artifacts: './bagitDump-v*.zip'
           artifactContentType: application/zip
           name: Release ${{ github.run_number }}_${{ github.ref_name }}
-          bodyFile: CHANGELOG.md
+          body: 
+            'Version: ${{ github.ref_name }} \n Info: {{ github.step_summary }}'  
+         #bodyFile: CHANGELOG.md
           token: ${{ secrets.GITHUB_TOKEN }}
           
     - name: Commit README
