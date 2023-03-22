@@ -199,6 +199,8 @@ jobs:
       uses: ncipollo/release-action@v1
       with:
           artifacts: './bagitDump-v*.zip'
+          artifactContentType: application/zip
+          bodyFile: CHANGELOG.md
           token: ${{ secrets.GITHUB_TOKEN }}
           
     - name: Commit README
