@@ -201,8 +201,13 @@ jobs:
           artifacts: './bagitDump-v*.zip'
           artifactContentType: application/zip
           name: Release ${{ github.run_number }}_${{ github.ref_name }}
-          body: 
-            'Version: ${{ github.ref_name }} <br/> Info: $GITHUB_STEP_SUMMARY'  
+          body: |
+            '**Version:** ${{ github.ref_name }} <br/> 
+            **Info:** To use the Ground Truth download the zip file. <br/> 
+            The bagitDump-v${{ github.run_number }}.zip file contains all ocr-d-bagit files.<br/>
+            The metadata json file contains metadata for the Ground Truth corpus. <br/>
+            The Mets file lists all containing documents/bagits.<br/>
+            The bagits correspond to the OCR-D Bagit Spec. '  
          #bodyFile: CHANGELOG.md
           token: ${{ secrets.GITHUB_TOKEN }}
           
