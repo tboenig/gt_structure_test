@@ -200,7 +200,6 @@ jobs:
       with:
           artifacts: './bagitDump-v*.zip'
           artifactContentType: application/zip
-          commit: true
           bodyFile: CHANGELOG.md
           token: ${{ secrets.GITHUB_TOKEN }}
           
