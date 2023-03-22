@@ -1,0 +1,61 @@
+{
+  "schema": "https://github.com/tboenig/gt-metadata/tree/master/schema/2022-03-15/schema.json",
+  "title": "gt_structure_test",
+  "url": "https://github.com/tboenig/gt_structure_test",
+  "authors": [
+    {
+      "name": "Boenig",
+      "surname": "Matthias"
+    }
+  ],
+  "description": "Test structure Gorund Truth Repo",
+  "project-name": "OCR-D",
+  "project-website": "https://ocr-d.de/",
+  "language": [
+    "deu"
+  ],
+  "script": [
+    "Latn",
+    "Goth"
+  ],
+  "script-type": "print",
+  "time": {
+    "notBefore": "1600",
+    "notAfter": "1900"
+  },
+  "hands": {
+    "count": "unknown",
+    "level": "levelmix"
+  },
+  "license": [
+    {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/licenses/zero/1.0/"
+    }
+  ],
+  "gtTyp": "data_structure",
+  "format": "Page-XML",
+  "transcription-guidelines": "GT-Guidelines",
+  "volume": {
+    "TxtRegion": "480",
+    "GraphRegion": "11",
+    "SepRegion": "68",
+    "Page": "58"
+  },
+  "labelling": [
+    "granularity/physical/document-related/region",
+    "content-type/corpus",
+    "platform/platform-independent",
+    "content-encoding/structured",
+    "activityDomain/computing/visual/analysisRecognition/layoutAnalysis",
+    "contentOfInterest/visual/graphical",
+    "contentOfInterest/visual/graphical/separator",
+    "granularity/physical/document-related/page",
+    "granularity/logical/document-related/paragraph",
+    "data-attributes/document-related/structural/footnotes",
+    "data-attributes/document-related/structural/running-titles",
+    "data-attributes/document-related/visual/text/drop-caps",
+    "data-attributes/document-related/visual/text/font/typeface/blackletter",
+    "data-attributes/document-related/visual/text/font/typeface/antiqua"
+  ]
+}
