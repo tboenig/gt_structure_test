@@ -202,12 +202,12 @@ jobs:
           artifactContentType: application/zip
           name: Release ${{ github.run_number }}_${{ github.ref_name }}
           body: |
-            '**Version:** ${{ github.ref_name }} <br/> 
-            **Info:** To use the Ground Truth download the zip file. <br/> 
-            The bagitDump-v${{ github.run_number }}.zip file contains all ocr-d-bagit files.<br/>
-            The metadata json file contains metadata for the Ground Truth corpus. <br/>
-            The Mets file lists all containing documents/bagits.<br/>
-            The bagits correspond to the OCR-D Bagit Spec. '  
+            **Version:** ${{ github.ref_name }}
+            **Info:** To use the Ground Truth download the zip file.
+            The bagitDump-v${{ github.run_number }}.zip file contains all ocr-d-bagit files.
+            The metadata json file contains metadata for the Ground Truth corpus.
+            The Mets file lists all containing documents/bagits.
+            The bagits correspond to the OCR-D Bagit Spec.
          #bodyFile: CHANGELOG.md
           token: ${{ secrets.GITHUB_TOKEN }}
           
