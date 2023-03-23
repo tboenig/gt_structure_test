@@ -203,13 +203,13 @@ jobs:
           name: Release ${{ github.run_number }}_${{ github.ref_name }}
           body: |
             <dl>
-            <dt>**Version:**</dt> 
+            <dt><b>Version:</b></dt> 
             <dd>${{ github.ref_name }}</dd>
-            <dt>**Info:**</dt>
-            <dl>To use the Ground Truth download the bagitDump-v${{ github.run_number }}.zip file.
-            The zip file contains all ocr-d-bagit files.
-            The Metadata.json file contains metadata for the Ground Truth corpus.
-            The Mets.xml file lists all containing documents/bagits.
+            <dt><b>Info:</b></dt>
+            <dl>To use the Ground Truth download the bagitDump-v${{ github.run_number }}.zip file.<br/>
+            The zip file contains all ocr-d-bagit files.<br/>
+            The Metadata.json file contains metadata for the Ground Truth corpus.<br/>
+            The Mets.xml file lists all containing documents/bagits.<br/>
             The bagits correspond to the <a href="https://ocr-d.de/de/spec/ocrd_zip.html">OCR-D Bagit Spec</a>.</dl>
             </dl>
          #bodyFile: CHANGELOG.md
