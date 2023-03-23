@@ -227,7 +227,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.2/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0503.xml">abschatz_gedichte_1704_0503.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.3/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0503.xml">abschatz_gedichte_1704_0503.xml</a>
                            </td>
                            <td>14</td>
                            <td>0</td>
@@ -246,7 +246,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.2/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0690.xml">abschatz_gedichte_1704_0690.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.3/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0690.xml">abschatz_gedichte_1704_0690.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -265,7 +265,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.2/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0694.xml">abschatz_gedichte_1704_0694.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.3/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0694.xml">abschatz_gedichte_1704_0694.xml</a>
                            </td>
                            <td>11</td>
                            <td>0</td>
@@ -284,7 +284,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.2/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0009.xml">abschatz_gedichte_1704_0009.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.3/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0009.xml">abschatz_gedichte_1704_0009.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -303,7 +303,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.2/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0508.xml">abschatz_gedichte_1704_0508.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.3/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0508.xml">abschatz_gedichte_1704_0508.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -322,7 +322,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.2/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0014.xml">abschatz_gedichte_1704_0014.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.3/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0014.xml">abschatz_gedichte_1704_0014.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -341,7 +341,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.2/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0464.xml">abschatz_gedichte_1704_0464.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.3/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0464.xml">abschatz_gedichte_1704_0464.xml</a>
                            </td>
                            <td>10</td>
                            <td>0</td>
@@ -360,7 +360,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.2/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0401.xml">abschatz_gedichte_1704_0401.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.3/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0401.xml">abschatz_gedichte_1704_0401.xml</a>
                            </td>
                            <td>10</td>
                            <td>0</td>
@@ -379,7 +379,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.2/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0011.xml">abschatz_gedichte_1704_0011.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.3/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0011.xml">abschatz_gedichte_1704_0011.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -398,7 +398,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.2/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0015.xml">abschatz_gedichte_1704_0015.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.3/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0015.xml">abschatz_gedichte_1704_0015.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -417,7 +417,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.2/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0435.xml">abschatz_gedichte_1704_0435.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.3/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0435.xml">abschatz_gedichte_1704_0435.xml</a>
                            </td>
                            <td>12</td>
                            <td>0</td>
@@ -436,7 +436,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.2/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0543.xml">abschatz_gedichte_1704_0543.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.3/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0543.xml">abschatz_gedichte_1704_0543.xml</a>
                            </td>
                            <td>12</td>
                            <td>0</td>
@@ -455,7 +455,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.2/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0507.xml">abschatz_gedichte_1704_0507.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.3/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0507.xml">abschatz_gedichte_1704_0507.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -474,7 +474,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.2/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0686.xml">abschatz_gedichte_1704_0686.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.3/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0686.xml">abschatz_gedichte_1704_0686.xml</a>
                            </td>
                            <td>11</td>
                            <td>0</td>
@@ -493,7 +493,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.2/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0576.xml">abschatz_gedichte_1704_0576.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.3/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0576.xml">abschatz_gedichte_1704_0576.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -512,7 +512,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.2/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0048.xml">abschatz_gedichte_1704_0048.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.3/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0048.xml">abschatz_gedichte_1704_0048.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -531,7 +531,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.2/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0405.xml">abschatz_gedichte_1704_0405.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.3/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0405.xml">abschatz_gedichte_1704_0405.xml</a>
                            </td>
                            <td>11</td>
                            <td>0</td>
@@ -550,7 +550,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.2/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0010.xml">abschatz_gedichte_1704_0010.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.3/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0010.xml">abschatz_gedichte_1704_0010.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -569,7 +569,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.2/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0697.xml">abschatz_gedichte_1704_0697.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.3/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0697.xml">abschatz_gedichte_1704_0697.xml</a>
                            </td>
                            <td>11</td>
                            <td>0</td>
@@ -588,7 +588,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.2/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0409.xml">abschatz_gedichte_1704_0409.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.3/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0409.xml">abschatz_gedichte_1704_0409.xml</a>
                            </td>
                            <td>11</td>
                            <td>0</td>
@@ -607,7 +607,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.2/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0008.xml">abschatz_gedichte_1704_0008.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.3/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0008.xml">abschatz_gedichte_1704_0008.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -626,7 +626,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.2/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0007.xml">abschatz_gedichte_1704_0007.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.3/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0007.xml">abschatz_gedichte_1704_0007.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -645,7 +645,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.2/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0544.xml">abschatz_gedichte_1704_0544.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.3/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0544.xml">abschatz_gedichte_1704_0544.xml</a>
                            </td>
                            <td>11</td>
                            <td>0</td>
@@ -664,7 +664,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.2/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0465.xml">abschatz_gedichte_1704_0465.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.3/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0465.xml">abschatz_gedichte_1704_0465.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -683,7 +683,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.2/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0577.xml">abschatz_gedichte_1704_0577.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.3/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0577.xml">abschatz_gedichte_1704_0577.xml</a>
                            </td>
                            <td>11</td>
                            <td>0</td>
@@ -702,7 +702,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.2/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0415.xml">abschatz_gedichte_1704_0415.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.3/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0415.xml">abschatz_gedichte_1704_0415.xml</a>
                            </td>
                            <td>12</td>
                            <td>0</td>
@@ -721,7 +721,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.2/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0005.xml">abschatz_gedichte_1704_0005.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.3/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0005.xml">abschatz_gedichte_1704_0005.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -740,7 +740,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.2/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0013.xml">abschatz_gedichte_1704_0013.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.3/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0013.xml">abschatz_gedichte_1704_0013.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -759,7 +759,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.2/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0575.xml">abschatz_gedichte_1704_0575.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.3/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0575.xml">abschatz_gedichte_1704_0575.xml</a>
                            </td>
                            <td>11</td>
                            <td>0</td>
@@ -778,7 +778,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.2/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0012.xml">abschatz_gedichte_1704_0012.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.3/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0012.xml">abschatz_gedichte_1704_0012.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -844,7 +844,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.2/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0379.xml">abel_leibmedicus_1699_0379.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.3/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0379.xml">abel_leibmedicus_1699_0379.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -863,7 +863,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.2/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0008.xml">abel_leibmedicus_1699_0008.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.3/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0008.xml">abel_leibmedicus_1699_0008.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -882,7 +882,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.2/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0028.xml">abel_leibmedicus_1699_0028.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.3/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0028.xml">abel_leibmedicus_1699_0028.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -901,7 +901,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.2/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0016.xml">abel_leibmedicus_1699_0016.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.3/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0016.xml">abel_leibmedicus_1699_0016.xml</a>
                            </td>
                            <td>13</td>
                            <td>0</td>
@@ -920,7 +920,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.2/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0033.xml">abel_leibmedicus_1699_0033.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.3/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0033.xml">abel_leibmedicus_1699_0033.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -939,7 +939,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.2/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0034.xml">abel_leibmedicus_1699_0034.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.3/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0034.xml">abel_leibmedicus_1699_0034.xml</a>
                            </td>
                            <td>11</td>
                            <td>0</td>
@@ -958,7 +958,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.2/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0346.xml">abel_leibmedicus_1699_0346.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.3/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0346.xml">abel_leibmedicus_1699_0346.xml</a>
                            </td>
                            <td>16</td>
                            <td>0</td>
@@ -977,7 +977,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.2/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0013.xml">abel_leibmedicus_1699_0013.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.3/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0013.xml">abel_leibmedicus_1699_0013.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -996,7 +996,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.2/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0342.xml">abel_leibmedicus_1699_0342.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.3/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0342.xml">abel_leibmedicus_1699_0342.xml</a>
                            </td>
                            <td>13</td>
                            <td>0</td>
@@ -1015,7 +1015,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.2/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0017.xml">abel_leibmedicus_1699_0017.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.3/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0017.xml">abel_leibmedicus_1699_0017.xml</a>
                            </td>
                            <td>18</td>
                            <td>0</td>
@@ -1034,7 +1034,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.2/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0014.xml">abel_leibmedicus_1699_0014.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.3/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0014.xml">abel_leibmedicus_1699_0014.xml</a>
                            </td>
                            <td>10</td>
                            <td>0</td>
@@ -1053,7 +1053,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.2/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0030.xml">abel_leibmedicus_1699_0030.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.3/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0030.xml">abel_leibmedicus_1699_0030.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -1072,7 +1072,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.2/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0341.xml">abel_leibmedicus_1699_0341.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.3/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0341.xml">abel_leibmedicus_1699_0341.xml</a>
                            </td>
                            <td>11</td>
                            <td>0</td>
@@ -1091,7 +1091,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.2/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0027.xml">abel_leibmedicus_1699_0027.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.3/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0027.xml">abel_leibmedicus_1699_0027.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -1110,7 +1110,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.2/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0345.xml">abel_leibmedicus_1699_0345.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.3/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0345.xml">abel_leibmedicus_1699_0345.xml</a>
                            </td>
                            <td>12</td>
                            <td>0</td>
@@ -1129,7 +1129,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.2/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0012.xml">abel_leibmedicus_1699_0012.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.3/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0012.xml">abel_leibmedicus_1699_0012.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -1148,7 +1148,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.2/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0010.xml">abel_leibmedicus_1699_0010.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.3/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0010.xml">abel_leibmedicus_1699_0010.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -1167,7 +1167,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.2/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0377.xml">abel_leibmedicus_1699_0377.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.3/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0377.xml">abel_leibmedicus_1699_0377.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -1186,7 +1186,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.2/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0009.xml">abel_leibmedicus_1699_0009.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.3/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0009.xml">abel_leibmedicus_1699_0009.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -1205,7 +1205,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.2/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0011.xml">abel_leibmedicus_1699_0011.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.3/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0011.xml">abel_leibmedicus_1699_0011.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -1224,7 +1224,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.2/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0015.xml">abel_leibmedicus_1699_0015.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.3/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0015.xml">abel_leibmedicus_1699_0015.xml</a>
                            </td>
                            <td>20</td>
                            <td>0</td>
@@ -1243,7 +1243,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.2/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0029.xml">abel_leibmedicus_1699_0029.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.3/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0029.xml">abel_leibmedicus_1699_0029.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -1262,7 +1262,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.2/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0363.xml">abel_leibmedicus_1699_0363.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.3/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0363.xml">abel_leibmedicus_1699_0363.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -1281,7 +1281,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.2/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0032.xml">abel_leibmedicus_1699_0032.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.3/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0032.xml">abel_leibmedicus_1699_0032.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -1300,7 +1300,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.2/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0343.xml">abel_leibmedicus_1699_0343.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.3/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0343.xml">abel_leibmedicus_1699_0343.xml</a>
                            </td>
                            <td>16</td>
                            <td>0</td>
@@ -1319,7 +1319,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.2/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0007.xml">abel_leibmedicus_1699_0007.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.3/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0007.xml">abel_leibmedicus_1699_0007.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -1338,7 +1338,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.2/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0026.xml">abel_leibmedicus_1699_0026.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.3/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0026.xml">abel_leibmedicus_1699_0026.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -1357,7 +1357,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.2/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0400.xml">abel_leibmedicus_1699_0400.xml</a>
+                              <a href="https://github.com/tboenig/gt_structure_test/blob/v2.1.3/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0400.xml">abel_leibmedicus_1699_0400.xml</a>
                            </td>
                            <td>11</td>
                            <td>0</td>
