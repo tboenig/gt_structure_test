@@ -203,9 +203,9 @@ jobs:
           name: Release ${{ github.run_number }}_${{ github.ref_name }}
           body: |
             <dl>
-            <dt><b>Version:</b></dt> 
+            <dt>Version:</dt> 
             <dd>${{ github.ref_name }}</dd>
-            <dt><b>Info:</b></dt>
+            <dt>Info:</dt>
             <dl>To use the Ground Truth download the bagitDump-v${{ github.run_number }}.zip file.<br/>
             The zip file contains all ocr-d-bagit files.<br/>
             The Metadata.json file contains metadata for the Ground Truth corpus.<br/>
